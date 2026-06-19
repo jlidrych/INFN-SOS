@@ -2,3 +2,5 @@
 ### ROOT RDataFrame for Physics Data Analysis
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jlidrych/INFN-SOS/HEAD)
 [![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/jlidrych/INFN-SOS.git)
+
+Tutorial material is based on the [official ROOT tutorials and course](https://root.cern/tutorials/).
